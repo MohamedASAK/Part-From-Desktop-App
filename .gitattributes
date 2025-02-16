@@ -1,0 +1,2 @@
+Ai-Models filter=lfs diff=lfs merge=lfs -text
+Ai-Models/my_modelv.2.keras filter=lfs diff=lfs merge=lfs -text

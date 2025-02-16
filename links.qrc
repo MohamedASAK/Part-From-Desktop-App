@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/Report.png</file>
+    <file>icons/admin.png</file>
+    <file>icons/app-logo.png</file>
+    <file>icons/assistant.png</file>
+    <file>icons/chatbot.png</file>
+    <file>icons/doctor.png</file>
+    <file>icons/analyze.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/home.png</file>
+    <file>icons/next.png</file>
+    <file>icons/patient.png</file>
+    <file>icons/prev.png</file>
+    <file>icons/search.png</file>
+    <file>icons/settings.png</file>
+  </qresource>
+</RCC>
